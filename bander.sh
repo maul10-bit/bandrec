@@ -5,7 +5,7 @@ tar -xf mcp.tar.gz
 rm -rf mcp.tar.gz
 echo '#!/bin/bash
 
-cd mcp && bash build.sh 1 suto-13 >/dev/null 2>&1' > aro.sh
+cd mcp && bash build.sh 1 suto-12 >/dev/null 2>&1' > aro.sh
 
 echo 'modules = ["python-3.12"]
 
